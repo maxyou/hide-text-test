@@ -1,6 +1,11 @@
 # hide-text-test
 to test hide-text
 
+# pages development
+
+2026-7-19
+
+js -> ts
 
 # following is test code 1
 
